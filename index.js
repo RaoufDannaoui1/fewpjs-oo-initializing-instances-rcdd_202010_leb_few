@@ -25,7 +25,10 @@ class Dinner{
     this.salad=salad;
     this.soup=soup;
     this.entree=entree;
+<<<<<<< HEAD
     this._dessert=dessert;
+=======
+>>>>>>> 603add2a039a69fc0ad9d0faee8368f380cdf92a
 
   }
 }
